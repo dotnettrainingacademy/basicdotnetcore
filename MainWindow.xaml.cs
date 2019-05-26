@@ -23,6 +23,7 @@ namespace BaiscDotNetCore
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Hello, DotNet Training Academy");
         }
     }
 }
